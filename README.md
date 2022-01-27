@@ -1,2 +1,2 @@
-# Lemon_Lime_classifier
-Demo lemon lime classifier with fastai and Voila
+# Lemon_Orange_classifier
+Demo lemon orange classifier with fastai and Voila
